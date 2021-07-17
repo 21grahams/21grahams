@@ -1,4 +1,4 @@
-<img width='200px' height='350px' src="GettyImages-521663193-1.jpeg">
+<img width='500px' height='500px' src="GettyImages-521663193-1.jpeg">
 
 ### Hi everyone, I'm Graham Kirsh 👋
 

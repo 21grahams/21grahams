@@ -4,8 +4,7 @@
 
 # I'm a Software Engineer, Artist Manager, Health Enthusiast, Collaborator and Networker
 
-## 📫 Let's Connect: 
-[<img width='30px' target="_blank" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />][linkedin]
+### 📫 Let's Connect: [<img width='30px' target="_blank" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />][linkedin]
 
 <br>
 

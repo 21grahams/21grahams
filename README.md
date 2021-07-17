@@ -2,11 +2,7 @@
 
 ### Hi everyone, I'm Graham Kirsh 👋
 
-# I'm a Software Engineer, Artist Manager, Health Enthusiast, Collaborator and Networker
-
-### 📫 Let's Connect: [<img width='30px' target="_blank" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />][linkedin]
-
-<br>
+## I'm a Software Engineer, Artist Manager, Health Enthusiast, Collaborator and Networker
 
 - 🤖  I recently graduated from Hack Reactor's Advanced Software Engineering Immersive
 - 🍎  I was hired by Hack Reactor to help teach course materials and assist students in developing their skills as software engineers
@@ -14,6 +10,8 @@
 - 🥅  2021 Goals: Learn Typescript, React Native, Java, Vue and many other frameworks/languages!
 - 💬  Ask Me About: My road to becomming a Software Engineer
 - 🎸  Fun fact: I am the youngest independent promoter in history to promote events at Red Rocks Amphitheater
+
+### Let's Connect: [<img width='30px' target="_blank" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/graham-kirsh/
 

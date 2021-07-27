@@ -5,7 +5,7 @@
 ## I'm a Software Engineer, Artist Manager, Health Enthusiast, Collaborator and Networker
 
 - 🤖  I recently graduated from Hack Reactor's Advanced Software Engineering Immersive
-- 🍎  I was hired by Hack Reactor to help teach course materials and assist students in developing their skills as software engineers
+- 🍎  I was then hired by Hack Reactor to help teach course materials and assist students in developing their skills as software engineers
 - 👔  I am open to new opportunities in software development!
 - 🥅  2021 Goals: Learn Typescript, React Native, Java, Vue and many other frameworks/languages!
 - 💬  Ask Me About: My road to becomming a Software Engineer

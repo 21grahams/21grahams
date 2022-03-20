@@ -2,7 +2,7 @@
 
 ### Hi everyone, I'm Graham Kirsh 👋
 
-## I'm a Software Engineer, Artist Manager, Health Enthusiast, Collaborator and Networker
+## I'm a Software Engineer, Health Enthusiast, Collaborator and Networker
 
 - 🤖  I graduated from Hack Reactor's Advanced Software Engineering Immersive in early 2021
 - 🍎  I was then hired by Hack Reactor to help teach course materials and assist students in developing their skills as software engineers

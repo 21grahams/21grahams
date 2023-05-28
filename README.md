@@ -1,6 +1,6 @@
 <!-- <img width='500px' height='500px' src="GettyImages-521663193-1.jpeg"> -->
 
-## Hi everyone, I'm Graham 👋
+## Hello World, I'm Graham 👋
 
 ### I'm a Software Engineer, Health Enthusiast, Collaborator and Networker
 

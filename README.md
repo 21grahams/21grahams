@@ -11,9 +11,10 @@
 - 💬  Ask Me About: My road to becomming a Software Engineer
 - 🎸  Fun fact: I am the youngest independent promoter in history to promote events at Red Rocks Amphitheater
 
-### Let's Connect: [<img width='30px' target="_blank" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />][linkedin]
+### Let's Connect: [<img width='30px' target="_blank" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />][linkedin] [<img width='30px' target="_blank" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/graham-kirsh/
+[gmail]: mailto:graham.kirsh@gmail.com
 
 #### Languages and Tools:
 

@@ -7,7 +7,7 @@
 - 🤖  I graduated from Hack Reactor's Advanced Software Engineering Immersive in early 2021
 - 🍎  I was then hired by Hack Reactor to help teach course materials and assist students in developing their skills as software engineers
 - 👔  I am open to new opportunities in software development!
-- 🥅  2024 Goals: Continue growth in Typescript, React Native, Java, Ruby on Rails, Vue and many other frameworks/languages!
+- 🥅  2024 Goals include: Continue growth in Typescript, React Native, Java, Ruby on Rails, Vue and many other frameworks/languages!
 - 💬  Ask Me About: My road to becomming a Software Engineer
 - 🎸  Fun fact: I am the youngest independent promoter in history to promote events at Red Rocks Amphitheater
 
